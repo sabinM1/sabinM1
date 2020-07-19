@@ -1,7 +1,7 @@
 ## Hello there @_@
 Student, kinda new on GitHub. At the moment I'm trying to make a readme on my profile page.
 
-Skills: profesional idiot.
+Skills: professional idiot.
 
 ---
 
