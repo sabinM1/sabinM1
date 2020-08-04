@@ -1,5 +1,4 @@
-## Hello there @_@
-Student, kinda new on GitHub. At the moment I'm trying to make a readme on my profile page.
+## Hello, I beep boop beep
 
 Skills: professional idiot.
 
