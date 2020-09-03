@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         with:
-          USERNAME: ${{ "sabinM1" }}
+          USERNAME: ${{ github.repository_owner }}
