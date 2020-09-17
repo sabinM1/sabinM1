@@ -1,4 +1,3 @@
-## Hello I type on keyboard to light up LEDs
 [![Profile views](https://gpvc.arturio.dev/sabinM1)](https://github.com/arturssmirnovs)
 
 ---
