@@ -11,6 +11,6 @@ https://sabinm1.github.io/Focus/ <br>
 
 ---
 
-[![Visits Badge](https://badges.pufler.dev/visits/sabinM1/sabinM1)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=sabinM1)
 
 I'm on Reddit: [sabin_M1](https://reddit.com/user/sabin_M1). <br>
