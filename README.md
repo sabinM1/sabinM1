@@ -1,8 +1,5 @@
-https://sabinm1.github.io <br>
-https://sabinm1.github.io/MateRO/ <br> 
-https://sabinm1.github.io/web_MAX7219/ <br>
-https://sabinm1.github.io/Focus/ <br> 
-[parrot.k.vu](http://parrot.k.vu/) <br>
+<a href="https://github.com/sabinM1?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Pentru%20a--mi%20vedea%20toate%20proiectele-click%20aici-orange"/></a>
+
 ---
 
 [![](https://raw.githubusercontent.com/sabinM1/sabinM1/master/profile-summary-card-output/monokai/0-profile-details.svg)](#)
@@ -11,7 +8,26 @@ https://sabinm1.github.io/Focus/ <br>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=sabinM1)
+<details>
+  <summary>Pagini web</summary>
+
+##### Sortate alfabetic:
+
+[parrot.k.vu](http://parrot.k.vu/)
+
+https://sabinm1.github.io
+- https://sabinm1.github.io/Confictura-Industries/
+- https://sabinm1.github.io/Focus/
+- https://sabinm1.github.io/MateRO/
+- https://sabinm1.github.io/error/
+   - https://sabinm1.github.io/error/500
+   - https://sabinm1.github.io/error/403
+- https://sabinm1.github.io/suceava/
+- https://sabinm1.github.io/web_MAX7219/
+  
+</details>
+
+---
 
 <details>
   <summary>Contact</summary>
@@ -55,3 +71,7 @@ ItoeO70AxH/yBWRl6wZuxnhg
 =<span class="hljs-number">6</span>zot
     -----END PGP PUBLIC KEY BLOCK-----</code></pre></li></ul></details>
 </details>
+
+---
+
+[![](https://komarev.com/ghpvc/?username=sabinM1)](#) <a href="https://saythanks.io/to/sabinM1" target="_blank"><img src="https://img.shields.io/badge/Merci-!-blue"/></a>
