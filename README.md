@@ -1,4 +1,4 @@
-<a href="https://github.com/sabinM1?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Pentru%20a--mi%20vedea%20toate%20proiectele-click%20aici-orange"/></a>
+<a href="https://github.com/sabinM1?tab=repositories"><img src="https://img.shields.io/badge/Pentru%20a--mi%20vedea%20toate%20proiectele-click%20aici-orange"/></a>
 
 ---
 
@@ -74,4 +74,4 @@ ItoeO70AxH/yBWRl6wZuxnhg
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=sabinM1)](#) <a href="https://saythanks.io/to/sabinM1" target="_blank"><img src="https://img.shields.io/badge/Merci-!-blue"/></a>
+[![](https://komarev.com/ghpvc/?username=sabinM1)](#) <a href="https://saythanks.io/to/sabinM1"><img src="https://img.shields.io/badge/Merci-!-blue"/></a>
