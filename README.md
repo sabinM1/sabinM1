@@ -34,7 +34,8 @@ https://sabinm1.github.io
   
   ### Reddit: [sabin_M1](https://reddit.com/user/sabin_M1)
   ### Email: sabin<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Symbol_At.svg" width="16" height="16"></a>disroot.org
-  
+  - GPG: [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=sabin%40disroot.org&fingerprint=on&op=index)<br>
+  - Fingerprint: `C9D3 B15A 8196 C659 0286 749C 6CF7 262D 2289 304B`
   <ul><li><details><summary>PGP Key</summary><pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xsDNBGE85w4BDACu6aBPPfxaYMMkJQhop3ZAsTtrG7mhqV810lSEpBZcq7CXarUCke/K6LYZyw89
