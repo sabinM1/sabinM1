@@ -33,9 +33,8 @@ https://sabinm1.github.io
   <summary>Contact</summary>
   
   ### Reddit: <a href="https://reddit.com/user/sabin_M1"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Snoo.svg" width="24" height="24"> u/sabin_M1</a>
-  ### Keybase: <a href="https://keybase.io/sabinm"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" width="24" height="24"> sabinm</a> 
   ### Email: sabin<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Symbol_At.svg" width="16" height="16"></a>disroot.org
-  - GPG: [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=sabin%40disroot.org&fingerprint=on&op=index)<br>
+  - GPG/PGP: [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=sabin%40disroot.org&fingerprint=on&op=index); [keys.openpgp.org](https://keys.openpgp.org/search?q=sabin@disroot.org)<br>
   - Fingerprint: `C9D3 B15A 8196 C659 0286 749C 6CF7 262D 2289 304B`
   <ul><li><details><summary>PGP Key</summary><pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
 
