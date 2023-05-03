@@ -9,27 +9,6 @@
 ---
 
 <details>
-  <summary>Pagini web</summary>
-
-##### Sortate alfabetic:
-
-[parrot.k.vu](http://parrot.k.vu/)
-
-https://sabinm1.github.io
-- https://sabinm1.github.io/Confictura-Industries/
-- https://sabinm1.github.io/Focus/
-- https://sabinm1.github.io/MateRO/
-- https://sabinm1.github.io/error/
-   - https://sabinm1.github.io/error/500
-   - https://sabinm1.github.io/error/403
-- https://sabinm1.github.io/suceava/
-- https://sabinm1.github.io/web_MAX7219/
-  
-</details>
-
----
-
-<details>
   <summary>Contact</summary>
   
   ### Reddit: <a href="https://reddit.com/user/sabin_M1"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Snoo.svg" width="24" height="24"> u/sabin_M1</a>
