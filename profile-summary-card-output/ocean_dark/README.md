@@ -35,6 +35,16 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/sabinM1/sabinM1/master/profile-summary-card-output/ocean_dark/2-most-commit-language.svg)
+```
+
+    
+
+---
+
 ![](./3-stats.svg)
 
 ```
