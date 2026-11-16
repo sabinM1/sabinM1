@@ -7,6 +7,10 @@
 
 > *available as Docker Compose containers at [sabinM1/containere-fujisab](https://github.com/sabinM1/containere-fujisab)*
 
+### My other web projects:
+- [sabinm1.github.io/diff](https://sabinm1.github.io/diff) - a fully client-side diff checker for text and images
+- [sabinm1.github.io/Pomodoro](https://sabinm1.github.io/Pomodoro) - a minimal, dependency-free Pomodoro timer
+
 ---
 
 [![](https://raw.githubusercontent.com/sabinM1/sabinM1/master/profile-summary-card-output/monokai/0-profile-details.svg)](#)
