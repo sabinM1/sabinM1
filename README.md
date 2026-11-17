@@ -5,7 +5,7 @@
 - [adsb.170506.xyz](https://adsb.170506.xyz) - ADSB-Ultrafeeder: flight-tracking stack that ingests ADS-B data and shows live aircraft positions and statistics.
 - [md.170506.xyz](https://md.170506.xyz) - markdown-live-preview: browser-based Markdown editor that renders the formatted document in real time.
 
-> *available as Docker Compose containers at [sabinM1/containere-fujisab](https://github.com/sabinM1/containere-fujisab)*
+> *available as Docker Compose containers at [sabinM1/containere](https://github.com/sabinM1/containere)*
 
 ### My other web projects:
 - [sabinm1.github.io/diff](https://sabinm1.github.io/diff) - a fully client-side diff checker for text and images
